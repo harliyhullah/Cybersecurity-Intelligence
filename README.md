@@ -1,5 +1,5 @@
 # Cybersecurity-Intelligence
-A Visual deep dive into global cybersecurity trends, threats and response strategies using Power BI
+A visual deep dive into global cybersecurity trends, threats and response strategies using Power BI
 
 ![](cybersecurity-concept-collage-design.jpg)
 
