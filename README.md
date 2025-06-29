@@ -4,11 +4,20 @@ A Visual deep dive into global cybersecurity trends, threats and response strate
 ![Project Banner](https://your-image-link.com/banner.jpg)
 ---
 ## Table of Contents
-- [ Introduction: Project Overview](#-introduction-project-overview)- [ Project Goal](#-project-goal)- [ Methodology](#-methodology)- [ Data Visualization](#-data-visualization)  - [ Dataset](#️-dataset)  - [ Dashboard](#️-dashboard)- [ Key Statistics](#-key-statistics)- [ Trends and Insights](#-trends-and-insights)- [ Recommendations for Mitigation](#-recommendations-for-mitigation)- [ Conclusion](#-conclusion)
+- [ Introduction: Project Overview](#-introduction-project-overview)
+- [ Project Goal](#-project-goal)- [ Methodology](#-methodology)
+- [ Data Visualization](#-data-visualization)
+- [ Dataset](#️-dataset)
+- [ Dashboard](#️-dashboard)
+- [ Key Statistics](#-key-statistics)
+- [ Trends and Insights](#-trends-and-insights)
+- [ Recommendations for Mitigation](#-recommendations-for-mitigation)
+- [ Conclusion](#-conclusion)
 ---
 ## Introduction: Project Overview
 ### **Title:** Global Cybersecurity Threats Analysis (2015–2024)
 This project presents a comprehensive analysis of global cybersecurity threats between 2015 and 2024. Using data sourced from Kaggle, we leveraged Power BI to uncover trends, evaluate risk impact, and visualize key threat patterns across countries, attack types, and response strategies. The goal is to transform raw cybersecurity data into actionable insights for decision-makers and IT security professionals.
+Threat volume, financial impact and users exposure are all rising while response time is improving slightly but not significantly. This implies that threat sevrity is outpacing defensive improvement.
 ---
 ## Project Goal
 The primary objective of this project is to:
@@ -24,20 +33,19 @@ This project followed a structured data-driven approach to analyze global cybers
 2. Data Cleaning & Preprocessing
 3. Data Analysis 
 4. Reporting & Visualization
-Tool Used: Power BI  
-Dataset Source: Kaggle  
-Data Cleaning: Power Query Editor  
-Analysis Focus: - Incident frequency  - Financial losses  - User exposure  - Attack vectors  - Source attribution  - Response efficiency  
-Visuals Used: - Line charts  - Bar graphs  - KPI cards  - Maps  - Slicers  - Tables
+### Tool Used: Power BI  
+### Dataset Source: Kaggle  
+### Data Cleaning: Power Query Editor  
+### Analysis Focus: - Incident frequency  - Financial losses  - User exposure  - Attack vectors  - Source attribution  - Response efficiency  
+### Visuals Used: - Line charts  - Bar graphs  - KPI cards  - Maps  - Slicers  - Tables
 ---
 ## Data Visualization
  To interact with the report: [**CLICK HERE**](https://app.powerbi.com/view?r=eyJrIjoiNzMwZTNjZDItMjFhYy00OTM2LWI4MWEtNGZlMmI5MzAyODE0IiwidCI6ImI2NDU3ZDY4LTQzODgtNGMzYS04MjIyLTc0ZGU0NDU5ZDFlZiJ9)
 ### Dataset
-Below are sample views of the dataset used for this project and the analysis procress:
+Below are sample views of the dataset used for this project and the analysis process:
 ![Data in Excel](Dataset in Excel Interface.png)![Data in Power Query](Data in Power Query Interface.png)![Data Modelling](Data Model in Power BI.png)![Fact Table](Fact Table in Table View.png)![DAX for Measures](DAX in Power BI.png)![Date Tabel](Date Table.png)
-
-### Dashboard
-These images show parts of the developed dashboards:
+### Dashboard 
+These images show parts of the developed dashboards: 
 ![Trend, Regional and Responsiveness Analysis](Report page 1.png)![Sector Risk Profile and Defense Mechanism](Report page 2.png)
 ---
 ## Key Statistics
@@ -94,7 +102,7 @@ These images show parts of the developed dashboards:
 - Share anonymized threat data to strengthen global resilience
 ---
 ## Conclusion
-Cybersecurity threats have grown significantly in volume, sophistication, and financial impact from 2015–2024. With over **$151 billion** in losses and **1.5 billion** users affected globally, cybersecurity is no longer an IT responsibility alone — it's a **core business imperative**.
+Cybersecurity threats have grown significantly in volume and financial impact from 2015–2024. With over **$151 billion** in losses and **1.5 billion** users affected globally, cybersecurity is no longer an IT responsibility alone, it's a **core business imperative**.
 This Power BI project underscores the urgent need for **proactive defense, automation, user education, and global cooperation**. As the threat landscape continues to evolve, staying ahead requires real-time insight, collaborative intelligence sharing, and robust mitigation strategies.
 ---
 **Prepared by:** Ajagun Alliyu Aremu  
