@@ -6,7 +6,8 @@ A Visual deep dive into global cybersecurity trends, threats and response strate
 
 ## Table of Contents
 - [ Introduction: Project Overview](#-introduction-project-overview)
-- [ Project Goal](#-project-goal)- [ Methodology](#-methodology)
+- [ Project Goal](#-project-goal)
+- [ Methodology](#-methodology)
 - [ Data Visualization](#-data-visualization)
 - [ Dataset](#️-dataset)
 - [ Dashboard](#️-dashboard)
@@ -34,6 +35,7 @@ This project followed a structured data-driven approach to analyze global cybers
 2. Data Cleaning & Preprocessing
 3. Data Analysis 
 4. Reporting & Visualization
+
 -Tool Used: Power BI
 -Dataset Source: Kaggle
 -Data Cleaning: Power Query Editor
@@ -45,23 +47,23 @@ This project followed a structured data-driven approach to analyze global cybers
 ## Dataset
 Below are sample views of the dataset used for this project and the analysis process:
 
-![](Dataset in Excel Interface.png)
+![](DatasetinExcelInterface.png)
 
-![](Data in Power Query Interface.png)
+![](DatainPowerQueryInterface.png)
 
-![](Data Model in Power BI.png)
+![](DataModelinPowerBI.png)
 
-![](Fact Table in Table View.png)
+![](FactTableinTableView.png)
 
-![](DAX in Power BI.png)
+![](DAXinPowerBI.png)
 
-![](Date Table.png)
+![](DateTable.png)
 ## Dashboard 
 ### These images show parts of the developed dashboards: 
 
-![](Report page 1.png)
+![](Reportpage1.png)
 
-![](Report page 2.png)
+![](Reportpage2.png)
 
 # Key Statistics
 - **Total Incidents:** 3,000
