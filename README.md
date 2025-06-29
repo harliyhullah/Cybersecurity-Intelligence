@@ -36,35 +36,48 @@ This project followed a structured data-driven approach to analyze global cybers
 3. Data Analysis 
 4. Reporting & Visualization
 
--Tool Used: Power BI
--Dataset Source: Kaggle
--Data Cleaning: Power Query Editor
--Analysis Focus: Incident frequency, Financial losses, User exposure, Attack vectors, Source attribution, Response efficiency
--Visuals Used: Line charts, Bar graphs, KPI cards, Maps, Slicers, Tables.
+Tool Used: Power BI
+
+Dataset Source: Kaggle
+
+Data Cleaning: Power Query Editor
+
+Analysis Focus: Incident frequency, Financial losses, User exposure, Attack vectors, Source attribution, Response efficiency
+
+Visuals Used: Line charts, Bar graphs, KPI cards, Maps, Slicers, Tables.
 
 # Data Visualization
 ## Dataset
 Below are sample views of the dataset used for this project and the analysis process:
 
-![Excel](DatasetinExcelInterface.png)
+### Excel Interface
+![](DatasetinExcelInterface.png)
 
-![Power Query](DatainPowerQueryInterface.png)
+### Power Query Interface 
+![](DatainPowerQueryInterface.png)
 
-![Date Model](DataModelinPowerBI.png)
+### Data Modelling
+![](DataModelinPowerBI.png)
 
-![Fact Table](FactTableinTableView.png)
+### Fact Table
+![](FactTableinTableView.png)
 
-![DAX](DAXinPowerBI.png)
+### DAX for Measures
+![](DAXinPowerBI.png)
 
-![Date Table](DateTable.png)
+### Date Table
+![](DateTable.png)
 
 ## Dashboard 
 ### These images show parts of the developed dashboards: 
 
+### Trend, Regional and Responsiveness Analysis 
 ![](Reportpage1.png)
 
+### Sector Risk Profile and Defense Mechanism 
 ![](Reportpage2.png)
 
+### Report on Power BI Interface
 ![](ReportinPowerBIInterface.png)
 
 To interact with the report: [**CLICK HERE**](https://app.powerbi.com/view?r=eyJrIjoiNzMwZTNjZDItMjFhYy00OTM2LWI4MWEtNGZlMmI5MzAyODE0IiwidCI6ImI2NDU3ZDY4LTQzODgtNGMzYS04MjIyLTc0ZGU0NDU5ZDFlZiJ9)
