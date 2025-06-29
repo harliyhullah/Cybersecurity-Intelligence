@@ -1,7 +1,8 @@
 # Cybersecurity-Intelligence
 A Visual deep dive into global cybersecurity trends, threats and response strategies using Power BI
 
-![Project Banner](https://your-image-link.com/banner.jpg)
+![](cybersecurity-concept-collage-design.jpg)
+
 ---
 ## Table of Contents
 - [ Introduction: Project Overview](#-introduction-project-overview)
@@ -15,7 +16,7 @@ A Visual deep dive into global cybersecurity trends, threats and response strate
 - [ Conclusion](#-conclusion)
 ---
 ## Introduction: Project Overview
-### **Title:** Global Cybersecurity Threats Analysis (2015–2024)
+# **Title:** Global Cybersecurity Threats Analysis (2015–2024)
 This project presents a comprehensive analysis of global cybersecurity threats between 2015 and 2024. Using data sourced from Kaggle, we leveraged Power BI to uncover trends, evaluate risk impact, and visualize key threat patterns across countries, attack types, and response strategies. The goal is to transform raw cybersecurity data into actionable insights for decision-makers and IT security professionals.
 Threat volume, financial impact and users exposure are all rising while response time is improving slightly but not significantly. This implies that threat sevrity is outpacing defensive improvement.
 ---
@@ -33,11 +34,11 @@ This project followed a structured data-driven approach to analyze global cybers
 2. Data Cleaning & Preprocessing
 3. Data Analysis 
 4. Reporting & Visualization
-### Tool Used: Power BI  
-### Dataset Source: Kaggle  
-### Data Cleaning: Power Query Editor  
-### Analysis Focus: - Incident frequency  - Financial losses  - User exposure  - Attack vectors  - Source attribution  - Response efficiency  
-### Visuals Used: - Line charts  - Bar graphs  - KPI cards  - Maps  - Slicers  - Tables
+   -Tool Used: Power BI
+   -Dataset Source: Kaggle
+   -Data Cleaning: Power Query Editor
+   -Analysis Focus: - Incident frequency  - Financial losses  - User exposure  - Attack vectors  - Source attribution  - Response efficiency
+   -Visuals Used: - Line charts  - Bar graphs  - KPI cards  - Maps  - Slicers  - Tables
 ---
 ## Data Visualization
  To interact with the report: [**CLICK HERE**](https://app.powerbi.com/view?r=eyJrIjoiNzMwZTNjZDItMjFhYy00OTM2LWI4MWEtNGZlMmI5MzAyODE0IiwidCI6ImI2NDU3ZDY4LTQzODgtNGMzYS04MjIyLTc0ZGU0NDU5ZDFlZiJ9)
