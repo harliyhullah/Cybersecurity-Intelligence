@@ -4,7 +4,7 @@ A Visual deep dive into global cybersecurity trends, threats and response strate
 ![](cybersecurity-concept-collage-design.jpg)
 
 
-## Table of Contents
+# Table of Contents
 - [ Introduction: Project Overview](#-introduction-project-overview)
 - [ Project Goal](#-project-goal)
 - [ Methodology](#-methodology)
@@ -43,27 +43,31 @@ This project followed a structured data-driven approach to analyze global cybers
 -Visuals Used: Line charts, Bar graphs, KPI cards, Maps, Slicers, Tables.
 
 # Data Visualization
- To interact with the report: [**CLICK HERE**](https://app.powerbi.com/view?r=eyJrIjoiNzMwZTNjZDItMjFhYy00OTM2LWI4MWEtNGZlMmI5MzAyODE0IiwidCI6ImI2NDU3ZDY4LTQzODgtNGMzYS04MjIyLTc0ZGU0NDU5ZDFlZiJ9)
 ## Dataset
 Below are sample views of the dataset used for this project and the analysis process:
 
-![](DatasetinExcelInterface.png)
+![Excel](DatasetinExcelInterface.png)
 
-![](DatainPowerQueryInterface.png)
+![Power Query](DatainPowerQueryInterface.png)
 
-![](DataModelinPowerBI.png)
+![Date Model](DataModelinPowerBI.png)
 
-![](FactTableinTableView.png)
+![Fact Table](FactTableinTableView.png)
 
-![](DAXinPowerBI.png)
+![DAX](DAXinPowerBI.png)
 
-![](DateTable.png)
+![Date Table](DateTable.png)
+
 ## Dashboard 
 ### These images show parts of the developed dashboards: 
 
 ![](Reportpage1.png)
 
 ![](Reportpage2.png)
+
+![](ReportinPowerBIInterface.png)
+
+To interact with the report: [**CLICK HERE**](https://app.powerbi.com/view?r=eyJrIjoiNzMwZTNjZDItMjFhYy00OTM2LWI4MWEtNGZlMmI5MzAyODE0IiwidCI6ImI2NDU3ZDY4LTQzODgtNGMzYS04MjIyLTc0ZGU0NDU5ZDFlZiJ9)
 
 # Key Statistics
 - **Total Incidents:** 3,000
