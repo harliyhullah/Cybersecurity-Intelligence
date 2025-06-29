@@ -59,16 +59,17 @@ Below are sample views of the dataset used for this project and the analysis pro
 ### Data Modelling
 ![](DataModelinPowerBI.png)
 
-### Fact Table
-![](FactTableinTableView.png)
-
 ### DAX for Measures
 ![](DAXinPowerBI.png)
 
 ### Date Table
 ![](DateTable.png)
 
+### Fact Table
+![](FactTableinTableView.png)
+
 ## Dashboard 
+
 ### These images show parts of the developed dashboards: 
 
 ### Trend, Regional and Responsiveness Analysis 
@@ -78,7 +79,7 @@ Below are sample views of the dataset used for this project and the analysis pro
 ![](Reportpage2.png)
 
 ### Report on Power BI Interface
-![](ReportinPowerBIInterface.png)
+![](ReportonPowerBIInterface.png)
 
 To interact with the report: [**CLICK HERE**](https://app.powerbi.com/view?r=eyJrIjoiNzMwZTNjZDItMjFhYy00OTM2LWI4MWEtNGZlMmI5MzAyODE0IiwidCI6ImI2NDU3ZDY4LTQzODgtNGMzYS04MjIyLTc0ZGU0NDU5ZDFlZiJ9)
 
