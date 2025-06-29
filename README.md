@@ -18,8 +18,8 @@ A Visual deep dive into global cybersecurity trends, threats and response strate
 
 # Introduction: Project Overview
 ## Title: Global Cybersecurity Threats Analysis (2015–2024)
-This project presents a comprehensive analysis of global cybersecurity threats between 2015 and 2024. Using data sourced from Kaggle, we leveraged Power BI to uncover trends, evaluate risk impact, and visualize key threat patterns across countries, attack types, and response strategies. The goal is to transform raw cybersecurity data into actionable insights for decision-makers and IT security professionals.
-Threat volume, financial impact and users exposure are all rising while response time is improving slightly but not significantly. This implies that threat sevrity is outpacing defensive improvement.
+This project presents a comprehensive analysis of global cybersecurity threats between 2015 and 2024. Using data sourced from Kaggle, I leveraged Power BI to uncover trends, evaluate risk impact, and visualize key threat patterns across countries, attack types, and response strategies. The goal is to transform raw cybersecurity data into actionable insights for decision-makers and IT security professionals.
+Threat volume, financial impact and users exposure are all rising while response time is improving slightly but not significantly. This implies that threat severity is outpacing defensive improvement.
 
 # Project Goal
 The primary objective of this project is to:
