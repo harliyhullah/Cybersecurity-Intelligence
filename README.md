@@ -56,7 +56,7 @@ Below are sample views of the dataset used for this project and the analysis pro
 ### Power Query Interface 
 ![](DatainPowerQueryInterface.png)
 
-### Data Modelling
+### Data Modelling (This model is a star schema)
 ![](DataModelinPowerBI.png)
 
 ### DAX for Measures
