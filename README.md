@@ -141,8 +141,8 @@ To interact with the report: [**CLICK HERE**](https://app.powerbi.com/view?r=eyJ
 Cybersecurity threats have grown significantly in volume and financial impact from 2015–2024. With over **$151 billion** in losses and **1.5 billion** users affected globally, cybersecurity is no longer an IT responsibility alone, it's a **core business imperative**.
 This Power BI project underscores the urgent need for **proactive defense, automation, user education, and global cooperation**. As the threat landscape continues to evolve, staying ahead requires real-time insight, collaborative intelligence sharing, and robust mitigation strategies.
 
+## Detailed Insights, Recommendations and full report on medium [**HERE**](https://medium.com/@ajagunalliyu/cybersecurity-intelligence-visualization-using-power-bi-b4efdb6f04e5)
+
 Prepared by:
 Ajagun Alliyu Aremu
-IOTBTECH Fellowship — Data Analysis Track, Class of 2025  
 
-Date: 27th June 2025
